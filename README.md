@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ellie-ochieno
+- 👋 Hi, I’m ochieno eliud
 - 👀 I’m interested in new technology developments
 - 🌱 I’m currently learning IoT with Python and Laravel php frame work
 - 💞️ I’m looking to collaborate on IoT driven projects making use of Python support language.
